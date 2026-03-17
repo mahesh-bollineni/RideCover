@@ -328,19 +328,14 @@ Simple web UI that works on any browser, including basic Android phones. No app 
 
 | Name | Role |
 |---|---|
-| [Team Member 1] | Frontend Developer — React + Vite |
-| [Team Member 2] | Backend Developer — Node.js + APIs |
-| [Team Member 3] | ML Engineer — Premium & Fraud Models |
+| [Mahesh Bollineni] | Lead |
+| [BHUDETI D V V SIVARAMPRASAD] | Member |
+| [NALLAMOTHU GIRISH CHOWDARY] | Member |
 
 ---
 
 ## 📎 Links
 
 - 🎥 Phase 1 Video: [Link coming soon]
-- 🌐 Live Demo: [Link coming soon]
-- 📊 Pitch Deck: [Link coming soon]
 - 💻 GitHub Repo: [Link coming soon]
 
----
-
-*Built with ❤️ for Guidewire DEVTrails 2026*
