@@ -337,5 +337,5 @@ Simple web UI that works on any browser, including basic Android phones. No app 
 ## 📎 Links
 
 - 🎥 Phase 1 Video: [Link coming soon]
-- 💻 GitHub Repo: [Link coming soon]
+- 💻 GitHub Repo: https://github.com/mahesh-bollineni/RideCover
 
