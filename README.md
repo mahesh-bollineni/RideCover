@@ -328,9 +328,9 @@ Simple web UI that works on any browser, including basic Android phones. No app 
 
 | Name | Role |
 |---|---|
-| [Mahesh Bollineni] | Lead |
-| [BHUDETI D V V SIVARAMPRASAD] | Member |
-| [NALLAMOTHU GIRISH CHOWDARY] | Member |
+| Mahesh Bollineni | Lead |
+| BHUDETI D V V SIVARAMPRASAD | Member |
+| NALLAMOTHU GIRISH CHOWDARY | Member |
 
 ---
 
