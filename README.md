@@ -226,7 +226,7 @@ Net Benefit: +₹545 for Ramesh
 |---|---|---|
 | **Frontend** | React.js + Vite + Tailwind CSS | Web UI — all 5 screens |
 | **Backend** | Node.js + Express.js | API, business logic, triggers |
-| **Database** | MongoDB | Worker profiles, policies, claims |
+| **Database** | Mysql | Worker profiles, policies, claims |
 | **AI/ML** | Python + scikit-learn + XGBoost | Premium calc + fraud detection |
 | **Weather API** | OpenWeatherMap (free tier) | Real-time disruption detection |
 | **Payment** | Razorpay Test Mode | Mock UPI payout simulation |
